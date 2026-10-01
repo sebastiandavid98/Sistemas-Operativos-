@@ -1,5 +1,8 @@
 # Taller de Sistemas Operativos — Gestión de Memoria y Procesos
 
+**Autor:** Sebastian David  
+**Repositorio:** https://github.com/sebastiandavid98/Sistemas-Operativos-
+
 Colección de 4 scripts en Python que demuestran conceptos fundamentales de Sistemas Operativos: gestión de memoria, jerarquía de caché, paginación virtual y planificación de procesos.
 
 **Requisito único:** `pip install psutil`
